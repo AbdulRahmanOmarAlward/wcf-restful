@@ -1,0 +1,12 @@
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\WCFRestFull.Core.dll.config
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\WCFRestFull.Core.dll
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\WCFRestFull.Core.pdb
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\Business.Entities.dll
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\EntityFramework.dll
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\Business.Entities.pdb
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\EntityFramework.xml
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\obj\Debug\WCFRestFull.Core.csprojResolveAssemblyReference.cache
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\obj\Debug\WCFRestFull.Core.dll
+c:\users\devloper\documents\visual studio 2015\Projects\WCFRestFull\WCFRestFull.Core\obj\Debug\WCFRestFull.Core.pdb
