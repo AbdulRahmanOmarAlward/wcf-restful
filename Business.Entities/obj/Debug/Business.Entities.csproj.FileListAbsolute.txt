@@ -1,0 +1,4 @@
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Entities\bin\Debug\Business.Entities.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Entities\bin\Debug\Business.Entities.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Entities\obj\Debug\Business.Entities.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Entities\obj\Debug\Business.Entities.pdb

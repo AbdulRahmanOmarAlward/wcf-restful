@@ -1,0 +1,11 @@
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\Business.Services.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\Business.Services.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\Business.Entities.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\WCFRestFull.Core.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\EntityFramework.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\Business.Entities.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\WCFRestFull.Core.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\bin\Debug\EntityFramework.xml
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\obj\Debug\Business.Services.csprojResolveAssemblyReference.cache
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\obj\Debug\Business.Services.dll
+E:\ItqanYe\Github\Restful\WCFRestful\Business.Services\obj\Debug\Business.Services.pdb

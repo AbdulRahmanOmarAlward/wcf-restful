@@ -22,3 +22,18 @@ C:\Users\Devloper\Documents\Visual Studio 2015\Projects\WCFRestful\WCFRestful.Co
 C:\Users\Devloper\Documents\Visual Studio 2015\Projects\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestful.Core.csprojResolveAssemblyReference.cache
 C:\Users\Devloper\Documents\Visual Studio 2015\Projects\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestFull.Core.dll
 C:\Users\Devloper\Documents\Visual Studio 2015\Projects\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestFull.Core.pdb
+<<<<<<< HEAD
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\WCFRestFull.Core.dll.config
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\WCFRestFull.Core.dll
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\WCFRestFull.Core.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\Business.Entities.dll
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\EntityFramework.dll
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\Business.Entities.pdb
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\EntityFramework.xml
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestful.Core.csprojResolveAssemblyReference.cache
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestFull.Core.dll
+E:\ItqanYe\Github\Restful\WCFRestful\WCFRestful.Core\obj\Debug\WCFRestFull.Core.pdb
+=======
+>>>>>>> master
